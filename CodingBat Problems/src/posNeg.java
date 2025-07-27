@@ -10,7 +10,7 @@ public class posNeg {
 
     public static void main(String[] args) {
         posNeg obj = new posNeg();
-        System.out.println(obj.posNeg(1, -1, false));   
+        System.out.println(obj.posNeg(1, -1, false));
         System.out.println(obj.posNeg(-1, 1, false));
         System.out.println(obj.posNeg(-4, -5, true));
         System.out.println(obj.posNeg(1, 2, false));

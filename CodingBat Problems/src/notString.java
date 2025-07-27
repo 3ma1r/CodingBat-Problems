@@ -10,7 +10,7 @@ public class notString {
 
     public static void main(String[] args) {
         notString obj = new notString();
-        System.out.println(obj.notString("candy"));     
+        System.out.println(obj.notString("candy"));
         System.out.println(obj.notString("x"));
         System.out.println(obj.notString("not bad"));
     }
