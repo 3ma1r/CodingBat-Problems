@@ -5,7 +5,7 @@ public class icyHot {
 
     public static void main(String[] args) {
         icyHot obj = new icyHot();
-        System.out.println(obj.icyHot(120, -1));   
+        System.out.println(obj.icyHot(120, -1));
         System.out.println(obj.icyHot(-1, 120));
         System.out.println(obj.icyHot(2, 120));
     }
