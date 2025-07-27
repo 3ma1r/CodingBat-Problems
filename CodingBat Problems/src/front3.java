@@ -13,7 +13,7 @@ public class front3 {
     public static void main(String[] args) {
         front3 obj = new front3();
         System.out.println(obj.front3("Java"));
-        System.out.println(obj.front3("Chocolate")); 
+        System.out.println(obj.front3("Chocolate"));
         System.out.println(obj.front3("abc"));
         System.out.println(obj.front3("ab"));
     }

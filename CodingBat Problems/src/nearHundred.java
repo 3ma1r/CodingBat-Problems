@@ -6,7 +6,7 @@ public class nearHundred {
 
     public static void main(String[] args) {
         nearHundred obj = new nearHundred();
-        System.out.println(obj.nearHundred(93));  
+        System.out.println(obj.nearHundred(93));
         System.out.println(obj.nearHundred(90));
         System.out.println(obj.nearHundred(89));
     }

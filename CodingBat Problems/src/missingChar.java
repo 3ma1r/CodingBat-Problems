@@ -8,6 +8,6 @@ public class missingChar {
         missingChar obj = new missingChar();
         System.out.println(obj.missingChar("kitten", 1));
         System.out.println(obj.missingChar("kitten", 0));
-        System.out.println(obj.missingChar("kitten", 4)); 
+        System.out.println(obj.missingChar("kitten", 4));
     }
 }
